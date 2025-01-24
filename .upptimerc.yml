@@ -25,6 +25,12 @@ sites:
   - name: Weblate server
     url: https://weblate.theyosh.nl
     maxResponseTime: 10000
+  - name: Storj server
+    check: "tcp-ping"
+    url: storj.theyosh.nl
+    port: 28967
+    icon: https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/660e34e73c1859e2a3f19840_storj-favicon-lt.png
+    maxResponseTime: 10000
   - name: Imap server
     check: "tcp-ping"
     url: mail.theyosh.nl
