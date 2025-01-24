@@ -9,6 +9,9 @@ sites:
   - name: TerrariumPI
     url: https://terrarium.theyosh.nl
     maxResponseTime: 10000
+  - name: TerrariumPI Documentation
+    url: https://theyosh.github.io/TerrariumPI/
+    maxResponseTime: 10000
   - name: Matrix server
     url: https://matrix.theyosh.nl
     icon: https://matrix.org/assets/favicon.svg
