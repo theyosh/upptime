@@ -11,6 +11,7 @@ sites:
     maxResponseTime: 10000
   - name: TerrariumPI Documentation
     url: https://theyosh.github.io/TerrariumPI/
+    icon: https://theyosh.github.io/TerrariumPI/assets/img/favicons/favicon-96x96.png
     maxResponseTime: 10000
   - name: Matrix server
     url: https://matrix.theyosh.nl
