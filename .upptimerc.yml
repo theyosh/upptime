@@ -7,7 +7,15 @@ sites:
     url: https://theyosh.nl
   - name: TerrariumPI
     url: https://terrarium.theyosh.nl
-
+  - name: Matrix server
+    url: https://matrix.theyosh.nl
+  - name: Mastodon server
+    url: https://mastodon.theyosh.nl
+  - name: Cloud server
+    url: https://cloud.theyosh.nl
+  - name: Weblate server
+    url: https://weblate.theyosh.nl
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
