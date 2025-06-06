@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.theyosh.nl.ico",
     "slug": "cloud-server",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "98.08%",
+    "uptimeYear": "98.09%",
     "time": 1192,
     "timeDay": 1251,
     "timeWeek": 1055,
@@ -149,7 +149,7 @@
     "uptimeYear": "99.60%",
     "time": 803,
     "timeDay": 643,
-    "timeWeek": 746,
+    "timeWeek": 729,
     "timeMonth": 795,
     "timeYear": 803,
     "dailyMinutesDown": {
@@ -244,9 +244,9 @@
     "url": "mail3.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail3-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -256,6 +256,7 @@
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2025-06-06": 0,
       "2025-04-01": 35
     }
   }
