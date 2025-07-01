@@ -13,7 +13,7 @@
     "time": 827,
     "timeDay": 1173,
     "timeWeek": 938,
-    "timeMonth": 807,
+    "timeMonth": 811,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2025-03-13": 28,
@@ -35,7 +35,7 @@
     "time": 2179,
     "timeDay": 913,
     "timeWeek": 1629,
-    "timeMonth": 3203,
+    "timeMonth": 3195,
     "timeYear": 2179,
     "dailyMinutesDown": {
       "2025-06-30": 15,
@@ -60,7 +60,7 @@
     "time": 113,
     "timeDay": 193,
     "timeWeek": 106,
-    "timeMonth": 118,
+    "timeMonth": 120,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -78,7 +78,7 @@
     "time": 929,
     "timeDay": 1108,
     "timeWeek": 989,
-    "timeMonth": 893,
+    "timeMonth": 900,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2025-05-11": 10,
@@ -101,7 +101,7 @@
     "time": 769,
     "timeDay": 737,
     "timeWeek": 799,
-    "timeMonth": 784,
+    "timeMonth": 789,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2025-05-11": 10,
@@ -125,7 +125,7 @@
     "time": 1179,
     "timeDay": 996,
     "timeWeek": 979,
-    "timeMonth": 1096,
+    "timeMonth": 1103,
     "timeYear": 1179,
     "dailyMinutesDown": {
       "2025-05-11": 10,
@@ -152,7 +152,7 @@
     "time": 813,
     "timeDay": 1020,
     "timeWeek": 1025,
-    "timeMonth": 844,
+    "timeMonth": 849,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2025-05-11": 10,
@@ -176,7 +176,7 @@
     "time": 115,
     "timeDay": 138,
     "timeWeek": 126,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-06-04": 112,
@@ -192,17 +192,16 @@
     "slug": "imap-server",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "97.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "99.59%",
     "time": 113,
     "timeDay": 107,
-    "timeWeek": 115,
-    "timeMonth": 112,
+    "timeWeek": 116,
+    "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-06-30": 7,
       "2025-06-29": 101,
       "2025-06-28": 15,
       "2025-06-27": 184,
@@ -233,7 +232,7 @@
     "time": 124,
     "timeDay": 147,
     "timeWeek": 134,
-    "timeMonth": 124,
+    "timeMonth": 125,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -269,7 +268,7 @@
     "time": 139,
     "timeDay": 163,
     "timeWeek": 150,
-    "timeMonth": 140,
+    "timeMonth": 141,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-04-01": 35
