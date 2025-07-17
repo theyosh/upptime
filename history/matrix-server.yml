@@ -1,7 +1,7 @@
 url: https://matrix.theyosh.nl
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2025-07-16T23:17:39.254Z
+status: down
+code: 502
+responseTime: 526
+lastUpdated: 2025-07-17T17:52:26.510Z
 startTime: 2025-01-24T11:34:00.382Z
 generator: Upptime <https://github.com/upptime/upptime>
