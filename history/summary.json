@@ -210,9 +210,9 @@
     "slug": "imap-server",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.61%",
     "time": 112,
     "timeDay": 112,
@@ -220,7 +220,6 @@
     "timeMonth": 111,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-08-11": 9,
       "2025-08-10": 19,
       "2025-08-09": 19,
       "2025-08-07": 9,
@@ -270,9 +269,9 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -281,7 +280,9 @@
     "timeWeek": 123,
     "timeMonth": 112,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-11": 0
+    }
   },
   {
     "name": "Mail3.theyosh.nl",
