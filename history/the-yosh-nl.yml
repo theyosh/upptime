@@ -1,7 +1,7 @@
 url: https://theyosh.nl
-status: degraded
-code: 502
-responseTime: 20194
-lastUpdated: 2025-09-18T05:59:22.918Z
+status: up
+code: 200
+responseTime: 890
+lastUpdated: 2025-09-18T06:10:11.825Z
 startTime: 2025-01-24T11:19:27.491Z
 generator: Upptime <https://github.com/upptime/upptime>
