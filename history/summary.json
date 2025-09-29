@@ -191,7 +191,7 @@
     "timeMonth": 1559,
     "timeYear": 1311,
     "dailyMinutesDown": {
-      "2025-09-29": 1078,
+      "2025-09-29": 1080,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -234,7 +234,7 @@
     "status": "up",
     "uptime": "93.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.06%",
+    "uptimeWeek": "41.08%",
     "uptimeMonth": "71.65%",
     "uptimeYear": "93.25%",
     "time": 863,
@@ -374,19 +374,19 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 86,
+    "timeDay": 92,
     "timeWeek": 108,
     "timeMonth": 114,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-09-29": 0
+      "2025-09-29": 3
     }
   },
   {
