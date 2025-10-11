@@ -1,7 +1,7 @@
 url: mail.theyosh.nl
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-10-11T02:22:25.890Z
+lastUpdated: 2025-10-11T02:31:20.199Z
 startTime: 2025-01-24T11:51:37.033Z
 generator: Upptime <https://github.com/upptime/upptime>
