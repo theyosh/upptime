@@ -1,7 +1,7 @@
 url: https://cloud.theyosh.nl
-status: degraded
+status: down
 code: 502
-responseTime: 20154
-lastUpdated: 2025-10-19T13:22:33.077Z
+responseTime: 9435
+lastUpdated: 2025-10-19T13:33:12.142Z
 startTime: 2025-01-24T11:34:02.917Z
 generator: Upptime <https://github.com/upptime/upptime>
