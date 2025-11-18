@@ -13,7 +13,7 @@
     "time": 1617,
     "timeDay": 1021,
     "timeWeek": 922,
-    "timeMonth": 2906,
+    "timeMonth": 2953,
     "timeYear": 1617,
     "dailyMinutesDown": {
       "2025-10-20": 32,
@@ -60,7 +60,7 @@
     "time": 2053,
     "timeDay": 859,
     "timeWeek": 1220,
-    "timeMonth": 1755,
+    "timeMonth": 1786,
     "timeYear": 2053,
     "dailyMinutesDown": {
       "2025-10-22": 37,
@@ -108,7 +108,7 @@
     "time": 121,
     "timeDay": 150,
     "timeWeek": 120,
-    "timeMonth": 129,
+    "timeMonth": 130,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -126,7 +126,7 @@
     "time": 1457,
     "timeDay": 935,
     "timeWeek": 978,
-    "timeMonth": 3281,
+    "timeMonth": 3334,
     "timeYear": 1457,
     "dailyMinutesDown": {
       "2025-10-20": 32,
@@ -175,7 +175,7 @@
     "time": 1351,
     "timeDay": 755,
     "timeWeek": 777,
-    "timeMonth": 2687,
+    "timeMonth": 2732,
     "timeYear": 1351,
     "dailyMinutesDown": {
       "2025-11-06": 137,
@@ -227,7 +227,7 @@
     "time": 1466,
     "timeDay": 995,
     "timeWeek": 951,
-    "timeMonth": 2153,
+    "timeMonth": 2189,
     "timeYear": 1466,
     "dailyMinutesDown": {
       "2025-10-20": 31,
@@ -293,7 +293,7 @@
     "time": 1161,
     "timeDay": 851,
     "timeWeek": 868,
-    "timeMonth": 2915,
+    "timeMonth": 2966,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2025-10-20": 30,
@@ -349,7 +349,7 @@
     "time": 116,
     "timeDay": 117,
     "timeWeek": 123,
-    "timeMonth": 124,
+    "timeMonth": 125,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2025-07-07": 20,
@@ -364,19 +364,19 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.72%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.29%",
     "time": 113,
-    "timeDay": 122,
-    "timeWeek": 120,
-    "timeMonth": 116,
+    "timeDay": 125,
+    "timeWeek": 121,
+    "timeMonth": 117,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 2,
       "2025-11-17": 67,
       "2025-11-15": 15,
       "2025-11-14": 38,
@@ -453,7 +453,7 @@
     "time": 126,
     "timeDay": 124,
     "timeWeek": 128,
-    "timeMonth": 131,
+    "timeMonth": 132,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -494,7 +494,7 @@
     "time": 141,
     "timeDay": 145,
     "timeWeek": 144,
-    "timeMonth": 146,
+    "timeMonth": 147,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2025-04-01": 35
