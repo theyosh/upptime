@@ -382,19 +382,18 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "99.09%",
     "time": 114,
-    "timeDay": 132,
-    "timeWeek": 118,
+    "timeDay": 133,
+    "timeWeek": 119,
     "timeMonth": 118,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2026-01-15": 0,
       "2026-01-13": 20,
       "2026-01-12": 19,
       "2026-01-09": 139,
@@ -473,7 +472,8 @@
       "2025-06-27": 184,
       "2025-06-26": 46,
       "2025-06-24": 19,
-      "2025-06-23": 36
+      "2025-06-23": 36,
+      "2025-06-22": 9
     }
   },
   {
