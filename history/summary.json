@@ -12,7 +12,7 @@
     "uptimeYear": "94.09%",
     "time": 1549,
     "timeDay": 998,
-    "timeWeek": 772,
+    "timeWeek": 798,
     "timeMonth": 851,
     "timeYear": 1597,
     "dailyMinutesDown": {
@@ -62,7 +62,7 @@
     "uptimeYear": "95.97%",
     "time": 1973,
     "timeDay": 1008,
-    "timeWeek": 3349,
+    "timeWeek": 3617,
     "timeMonth": 2402,
     "timeYear": 1974,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "94.02%",
     "time": 1479,
     "timeDay": 1166,
-    "timeWeek": 950,
+    "timeWeek": 968,
     "timeMonth": 959,
     "timeYear": 1514,
     "dailyMinutesDown": {
@@ -180,7 +180,7 @@
     "uptimeYear": "93.90%",
     "time": 1259,
     "timeDay": 949,
-    "timeWeek": 823,
+    "timeWeek": 833,
     "timeMonth": 848,
     "timeYear": 1287,
     "dailyMinutesDown": {
@@ -234,7 +234,7 @@
     "uptimeYear": "89.61%",
     "time": 1400,
     "timeDay": 921,
-    "timeWeek": 939,
+    "timeWeek": 961,
     "timeMonth": 1128,
     "timeYear": 1417,
     "dailyMinutesDown": {
@@ -304,7 +304,7 @@
     "uptimeYear": "92.48%",
     "time": 1089,
     "timeDay": 969,
-    "timeWeek": 831,
+    "timeWeek": 843,
     "timeMonth": 823,
     "timeYear": 1104,
     "dailyMinutesDown": {
@@ -379,18 +379,19 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.02%",
     "time": 115,
     "timeDay": 108,
-    "timeWeek": 115,
+    "timeWeek": 116,
     "timeMonth": 118,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2026-02-01": 129,
       "2026-01-31": 18,
       "2026-01-19": 79,
@@ -471,8 +472,7 @@
       "2025-07-05": 19,
       "2025-06-29": 101,
       "2025-06-28": 15,
-      "2025-06-27": 184,
-      "2025-06-26": 17
+      "2025-06-27": 184
     }
   },
   {
