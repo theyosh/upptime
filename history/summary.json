@@ -55,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/terrarium.theyosh.nl.ico",
     "slug": "terrarium-pi",
     "status": "up",
-    "uptime": "96.14%",
+    "uptime": "96.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.83%",
@@ -385,10 +385,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "98.10%",
+    "uptime": "99.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.01%",
     "time": 115,
     "timeDay": 117,
@@ -396,7 +396,6 @@
     "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-02-11": 9,
       "2026-02-09": 9,
       "2026-02-08": 77,
       "2026-02-06": 129,
@@ -480,7 +479,7 @@
       "2025-07-05": 19,
       "2025-06-29": 101,
       "2025-06-28": 15,
-      "2025-06-27": 20
+      "2025-06-27": 56
     }
   },
   {
@@ -506,10 +505,10 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "93.50%",
-    "uptimeWeek": "96.37%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "96.36%",
     "uptimeMonth": "97.24%",
     "uptimeYear": "99.40%",
     "time": 116,
@@ -518,7 +517,7 @@
     "timeMonth": 121,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-02-11": 20,
+      "2026-02-11": 21,
       "2026-02-10": 74,
       "2026-02-09": 134,
       "2026-02-08": 87,
