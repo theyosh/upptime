@@ -388,10 +388,10 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "98.41%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "99.02%",
     "time": 115,
@@ -400,7 +400,7 @@
     "timeMonth": 118,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-02-15": 39,
+      "2026-02-15": 41,
       "2026-02-14": 18,
       "2026-02-13": 18,
       "2026-02-09": 9,
@@ -484,7 +484,7 @@
       "2025-07-18": 16,
       "2025-07-06": 15,
       "2025-07-05": 19,
-      "2025-06-29": 42
+      "2025-06-29": 19
     }
   },
   {
@@ -510,10 +510,10 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "95.47%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "95.46%",
     "uptimeMonth": "97.07%",
     "uptimeYear": "99.37%",
     "time": 117,
@@ -522,7 +522,7 @@
     "timeMonth": 121,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-02-15": 19,
+      "2026-02-15": 20,
       "2026-02-13": 19,
       "2026-02-12": 19,
       "2026-02-11": 126,
