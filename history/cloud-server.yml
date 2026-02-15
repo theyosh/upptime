@@ -1,7 +1,7 @@
 url: https://cloud.theyosh.nl
-status: up
-code: 200
-responseTime: 958
-lastUpdated: 2026-02-15T17:10:23.100Z
+status: down
+code: 502
+responseTime: 839
+lastUpdated: 2026-02-15T18:10:16.061Z
 startTime: 2025-01-24T11:34:02.917Z
 generator: Upptime <https://github.com/upptime/upptime>
