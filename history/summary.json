@@ -241,7 +241,7 @@
     "uptimeDay": "98.66%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "89.93%",
+    "uptimeYear": "89.94%",
     "time": 1341,
     "timeDay": 1037,
     "timeWeek": 1038,
@@ -394,9 +394,9 @@
     "slug": "imap-server",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "98.99%",
     "time": 115,
     "timeDay": 99,
@@ -404,7 +404,6 @@
     "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-02-19": 6,
       "2026-02-16": 198,
       "2026-02-15": 80,
       "2026-02-14": 18,
@@ -486,7 +485,8 @@
       "2025-08-01": 37,
       "2025-07-27": 9,
       "2025-07-25": 17,
-      "2025-07-23": 23
+      "2025-07-23": 23,
+      "2025-07-18": 16
     }
   },
   {
@@ -519,7 +519,7 @@
     "uptimeMonth": "97.07%",
     "uptimeYear": "99.37%",
     "time": 117,
-    "timeDay": 131,
+    "timeDay": 136,
     "timeWeek": 123,
     "timeMonth": 121,
     "timeYear": 117,
