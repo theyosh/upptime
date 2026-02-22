@@ -1,7 +1,7 @@
 url: https://mastodon.theyosh.nl
-status: down
-code: 502
-responseTime: 661
-lastUpdated: 2026-02-22T17:50:14.375Z
+status: up
+code: 200
+responseTime: 922
+lastUpdated: 2026-02-22T17:53:32.964Z
 startTime: 2025-01-24T11:34:01.793Z
 generator: Upptime <https://github.com/upptime/upptime>
