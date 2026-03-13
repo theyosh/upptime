@@ -12,7 +12,7 @@
     "uptimeYear": "93.69%",
     "time": 1305,
     "timeDay": 680,
-    "timeWeek": 743,
+    "timeWeek": 745,
     "timeMonth": 856,
     "timeYear": 1347,
     "dailyMinutesDown": {
@@ -55,8 +55,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 611,
       "2025-07-23": 439,
-      "2025-07-09": 230,
-      "2025-03-13": 28
+      "2025-07-09": 230
     }
   },
   {
@@ -72,7 +71,7 @@
     "uptimeYear": "95.37%",
     "time": 1948,
     "timeDay": 2171,
-    "timeWeek": 1352,
+    "timeWeek": 1369,
     "timeMonth": 1911,
     "timeYear": 1896,
     "dailyMinutesDown": {
@@ -118,8 +117,7 @@
       "2025-07-09": 239,
       "2025-06-30": 15,
       "2025-06-17": 172,
-      "2025-05-11": 10,
-      "2025-03-13": 68
+      "2025-05-11": 10
     }
   },
   {
@@ -135,7 +133,7 @@
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 0,
-    "timeWeek": 116,
+    "timeWeek": 128,
     "timeMonth": 123,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -153,7 +151,7 @@
     "uptimeYear": "93.41%",
     "time": 1343,
     "timeDay": 933,
-    "timeWeek": 932,
+    "timeWeek": 939,
     "timeMonth": 932,
     "timeYear": 1377,
     "dailyMinutesDown": {
@@ -213,14 +211,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.theyosh.nl.ico",
     "slug": "mastodon-server",
     "status": "up",
-    "uptime": "94.14%",
+    "uptime": "94.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.42%",
     "uptimeMonth": "93.89%",
     "uptimeYear": "93.40%",
     "time": 1105,
     "timeDay": 741,
-    "timeWeek": 795,
+    "timeWeek": 799,
     "timeMonth": 807,
     "timeYear": 1137,
     "dailyMinutesDown": {
@@ -290,7 +288,7 @@
     "uptimeYear": "89.78%",
     "time": 1252,
     "timeDay": 900,
-    "timeWeek": 909,
+    "timeWeek": 913,
     "timeMonth": 960,
     "timeYear": 1269,
     "dailyMinutesDown": {
@@ -355,8 +353,7 @@
       "2025-08-12": 607,
       "2025-07-23": 438,
       "2025-07-09": 229,
-      "2025-05-11": 10,
-      "2025-03-13": 28
+      "2025-05-11": 10
     }
   },
   {
@@ -372,7 +369,7 @@
     "uptimeYear": "91.82%",
     "time": 997,
     "timeDay": 782,
-    "timeWeek": 778,
+    "timeWeek": 783,
     "timeMonth": 807,
     "timeYear": 1017,
     "dailyMinutesDown": {
@@ -449,7 +446,7 @@
     "uptimeYear": "99.94%",
     "time": 119,
     "timeDay": 0,
-    "timeWeek": 129,
+    "timeWeek": 137,
     "timeMonth": 131,
     "timeYear": 120,
     "dailyMinutesDown": {
@@ -575,7 +572,7 @@
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 0,
-    "timeWeek": 140,
+    "timeWeek": 147,
     "timeMonth": 143,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -587,7 +584,7 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "98.45%",
     "uptimeWeek": "91.82%",
     "uptimeMonth": "96.06%",
     "uptimeYear": "99.05%",
