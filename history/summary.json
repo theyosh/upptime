@@ -211,7 +211,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.theyosh.nl.ico",
     "slug": "mastodon-server",
     "status": "up",
-    "uptime": "94.16%",
+    "uptime": "94.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.71%",
     "uptimeMonth": "94.03%",
@@ -566,37 +566,35 @@
     "slug": "mail1-theyosh-nl",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 126,
     "timeWeek": 138,
     "timeMonth": 140,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2026-03-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail2.theyosh.nl",
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "95.52%",
-    "uptimeWeek": "90.84%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "90.83%",
     "uptimeMonth": "95.88%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.24%",
     "time": 118,
-    "timeDay": 117,
+    "timeDay": 118,
     "timeWeek": 119,
     "timeMonth": 120,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-03-14": 19,
+      "2026-03-14": 20,
       "2026-03-13": 80,
       "2026-03-12": 38,
       "2026-03-11": 132,
@@ -650,7 +648,7 @@
       "2025-12-03": 8,
       "2025-12-01": 19,
       "2025-11-29": 102,
-      "2025-11-28": 257
+      "2025-11-28": 9
     }
   },
   {
