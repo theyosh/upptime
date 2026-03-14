@@ -219,7 +219,7 @@
     "time": 1102,
     "timeDay": 769,
     "timeWeek": 784,
-    "timeMonth": 806,
+    "timeMonth": 807,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2026-03-10": 19,
@@ -289,7 +289,7 @@
     "time": 1246,
     "timeDay": 817,
     "timeWeek": 882,
-    "timeMonth": 958,
+    "timeMonth": 959,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2026-03-10": 29,
@@ -370,7 +370,7 @@
     "time": 992,
     "timeDay": 664,
     "timeWeek": 734,
-    "timeMonth": 799,
+    "timeMonth": 800,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2026-03-11": 191,
@@ -464,7 +464,7 @@
     "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.88%",
-    "uptimeMonth": "93.43%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "98.52%",
     "time": 115,
     "timeDay": 94,
@@ -564,10 +564,10 @@
     "url": "mail1.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail1-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
@@ -575,7 +575,9 @@
     "timeWeek": 143,
     "timeMonth": 142,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-14": 1
+    }
   },
   {
     "name": "Mail2.theyosh.nl",
@@ -583,18 +585,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "90.77%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.29%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "99.20%",
     "time": 118,
     "timeDay": 117,
     "timeWeek": 119,
     "timeMonth": 120,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-03-14": 26,
+      "2026-03-14": 19,
       "2026-03-13": 80,
       "2026-03-12": 38,
       "2026-03-11": 132,
@@ -648,7 +650,7 @@
       "2025-12-03": 8,
       "2025-12-01": 19,
       "2025-11-29": 102,
-      "2025-11-28": 9
+      "2025-11-28": 257
     }
   },
   {
