@@ -72,7 +72,7 @@
     "uptimeYear": "95.28%",
     "time": 1946,
     "timeDay": 751,
-    "timeWeek": 1701,
+    "timeWeek": 1753,
     "timeMonth": 1936,
     "timeYear": 1895,
     "dailyMinutesDown": {
@@ -153,7 +153,7 @@
     "uptimeYear": "93.32%",
     "time": 1336,
     "timeDay": 985,
-    "timeWeek": 919,
+    "timeWeek": 912,
     "timeMonth": 926,
     "timeYear": 1370,
     "dailyMinutesDown": {
@@ -221,7 +221,7 @@
     "uptimeYear": "93.30%",
     "time": 1102,
     "timeDay": 954,
-    "timeWeek": 794,
+    "timeWeek": 784,
     "timeMonth": 809,
     "timeYear": 1133,
     "dailyMinutesDown": {
@@ -292,7 +292,7 @@
     "uptimeYear": "89.68%",
     "time": 1246,
     "timeDay": 1065,
-    "timeWeek": 900,
+    "timeWeek": 897,
     "timeMonth": 957,
     "timeYear": 1247,
     "dailyMinutesDown": {
@@ -374,7 +374,7 @@
     "uptimeYear": "91.72%",
     "time": 992,
     "timeDay": 791,
-    "timeWeek": 745,
+    "timeWeek": 739,
     "timeMonth": 801,
     "timeYear": 1012,
     "dailyMinutesDown": {
@@ -467,18 +467,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "79.69%",
-    "uptimeWeek": "95.15%",
-    "uptimeMonth": "92.80%",
-    "uptimeYear": "98.50%",
+    "uptime": "98.65%",
+    "uptimeDay": "80.22%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "92.82%",
+    "uptimeYear": "98.47%",
     "time": 115,
     "timeDay": 119,
     "timeWeek": 115,
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-03-14": 293,
+      "2026-03-14": 285,
       "2026-03-12": 196,
       "2026-03-07": 18,
       "2026-03-03": 19,
@@ -561,7 +561,8 @@
       "2025-08-27": 25,
       "2025-08-22": 7,
       "2025-08-17": 39,
-      "2025-08-13": 9
+      "2025-08-13": 9,
+      "2025-08-12": 191
     }
   },
   {
@@ -587,19 +588,19 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "90.67%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "90.66%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "99.24%",
     "time": 117,
-    "timeDay": 116,
+    "timeDay": 115,
     "timeWeek": 118,
     "timeMonth": 120,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-03-14": 36,
+      "2026-03-14": 37,
       "2026-03-13": 80,
       "2026-03-12": 38,
       "2026-03-11": 132,
@@ -652,8 +653,7 @@
       "2025-12-06": 19,
       "2025-12-03": 8,
       "2025-12-01": 19,
-      "2025-11-29": 102,
-      "2025-11-28": 9
+      "2025-11-29": 102
     }
   },
   {
