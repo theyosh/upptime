@@ -13,7 +13,7 @@
     "time": 1279,
     "timeDay": 736,
     "timeWeek": 719,
-    "timeMonth": 843,
+    "timeMonth": 844,
     "timeYear": 1321,
     "dailyMinutesDown": {
       "2026-03-16": 100,
@@ -74,7 +74,7 @@
     "time": 1951,
     "timeDay": 2524,
     "timeWeek": 2267,
-    "timeMonth": 1999,
+    "timeMonth": 1960,
     "timeYear": 1906,
     "dailyMinutesDown": {
       "2026-03-16": 100,
@@ -380,7 +380,7 @@
     "time": 987,
     "timeDay": 730,
     "timeWeek": 752,
-    "timeMonth": 797,
+    "timeMonth": 796,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2026-03-16": 99,
@@ -594,19 +594,19 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "96.12%",
+    "uptimeDay": "96.02%",
     "uptimeWeek": "96.37%",
-    "uptimeMonth": "95.53%",
+    "uptimeMonth": "95.52%",
     "uptimeYear": "99.30%",
     "time": 118,
     "timeDay": 123,
-    "timeWeek": 118,
+    "timeWeek": 117,
     "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-03-18": 38,
+      "2026-03-18": 39,
       "2026-03-17": 54,
       "2026-03-16": 47,
       "2026-03-15": 19,
@@ -656,8 +656,7 @@
       "2025-12-24": 19,
       "2025-12-23": 22,
       "2025-12-21": 15,
-      "2025-12-20": 195,
-      "2025-12-18": 19
+      "2025-12-20": 195
     }
   },
   {
