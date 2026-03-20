@@ -148,7 +148,7 @@
     "icon": "https://matrix.org/assets/favicon.svg",
     "slug": "matrix-server",
     "status": "up",
-    "uptime": "94.16%",
+    "uptime": "94.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.96%",
     "uptimeMonth": "91.48%",
@@ -475,11 +475,11 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "98.50%",
     "time": 115,
     "timeDay": 108,
@@ -487,6 +487,7 @@
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2026-03-20": 1,
       "2026-03-19": 19,
       "2026-03-14": 285,
       "2026-03-12": 196,
@@ -570,8 +571,7 @@
       "2025-09-01": 37,
       "2025-08-27": 25,
       "2025-08-22": 7,
-      "2025-08-17": 39,
-      "2025-08-13": 9
+      "2025-08-17": 39
     }
   },
   {
@@ -599,9 +599,9 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "95.21%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "95.23%",
     "uptimeYear": "99.32%",
     "time": 118,
     "timeDay": 131,
@@ -609,7 +609,7 @@
     "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-03-20": 117,
+      "2026-03-20": 108,
       "2026-03-19": 23,
       "2026-03-18": 57,
       "2026-03-17": 54,
@@ -657,7 +657,8 @@
       "2026-01-07": 9,
       "2026-01-03": 18,
       "2026-01-01": 9,
-      "2025-12-31": 29
+      "2025-12-31": 29,
+      "2025-12-24": 19
     }
   },
   {
