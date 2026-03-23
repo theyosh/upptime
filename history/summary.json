@@ -221,10 +221,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "93.72%",
-    "uptimeYear": "93.32%",
+    "uptimeYear": "93.36%",
     "time": 1086,
     "timeDay": 846,
-    "timeWeek": 794,
+    "timeWeek": 798,
     "timeMonth": 810,
     "timeYear": 1119,
     "dailyMinutesDown": {
@@ -289,14 +289,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.theyosh.nl.ico",
     "slug": "cloud-server",
     "status": "up",
-    "uptime": "90.48%",
+    "uptime": "90.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "93.67%",
     "uptimeYear": "89.66%",
     "time": 1226,
     "timeDay": 943,
-    "timeWeek": 907,
+    "timeWeek": 910,
     "timeMonth": 910,
     "timeYear": 1226,
     "dailyMinutesDown": {
@@ -380,7 +380,7 @@
     "uptimeYear": "91.70%",
     "time": 979,
     "timeDay": 794,
-    "timeWeek": 747,
+    "timeWeek": 750,
     "timeMonth": 767,
     "timeYear": 1000,
     "dailyMinutesDown": {
@@ -474,9 +474,9 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "94.49%",
     "uptimeYear": "98.50%",
@@ -486,6 +486,7 @@
     "timeMonth": 114,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2026-03-23": 1,
       "2026-03-19": 19,
       "2026-03-14": 285,
       "2026-03-12": 196,
@@ -569,8 +570,7 @@
       "2025-09-01": 37,
       "2025-08-27": 25,
       "2025-08-22": 7,
-      "2025-08-17": 39,
-      "2025-08-13": 9
+      "2025-08-17": 39
     }
   },
   {
@@ -598,17 +598,16 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "95.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "96.03%",
     "uptimeYear": "99.32%",
     "time": 118,
-    "timeDay": 119,
+    "timeDay": 117,
     "timeWeek": 121,
     "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-03-23": 9,
       "2026-03-22": 16,
       "2026-03-20": 108,
       "2026-03-19": 23,
@@ -657,7 +656,8 @@
       "2026-01-08": 19,
       "2026-01-07": 9,
       "2026-01-03": 18,
-      "2026-01-01": 9
+      "2026-01-01": 9,
+      "2025-12-31": 29
     }
   },
   {
