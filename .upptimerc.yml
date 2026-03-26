@@ -52,11 +52,6 @@ sites:
     url: mail3.theyosh.nl
     port: 25
     maxResponseTime: 10000
-  - name: Mail4.theyosh.nl
-    check: "tcp-ping"
-    url: mail4.theyosh.nl
-    port: 25
-    maxResponseTime: 10000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
