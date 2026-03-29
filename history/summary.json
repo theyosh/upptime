@@ -13,7 +13,7 @@
     "time": 1242,
     "timeDay": 744,
     "timeWeek": 746,
-    "timeMonth": 747,
+    "timeMonth": 745,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2026-03-29": 147,
@@ -70,7 +70,7 @@
     "slug": "terrarium-pi",
     "status": "up",
     "uptime": "95.36%",
-    "uptimeDay": "75.92%",
+    "uptimeDay": "76.62%",
     "uptimeWeek": "63.60%",
     "uptimeMonth": "86.24%",
     "uptimeYear": "94.57%",
@@ -78,7 +78,7 @@
     "timeDay": 683,
     "timeWeek": 1275,
     "timeMonth": 1744,
-    "timeYear": 1879,
+    "timeYear": 1881,
     "dailyMinutesDown": {
       "2026-03-29": 297,
       "2026-03-28": 1440,
@@ -146,7 +146,7 @@
     "time": 120,
     "timeDay": 83,
     "timeWeek": 99,
-    "timeMonth": 115,
+    "timeMonth": 110,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -227,14 +227,14 @@
     "slug": "mastodon-server",
     "status": "up",
     "uptime": "93.68%",
-    "uptimeDay": "75.93%",
+    "uptimeDay": "76.63%",
     "uptimeWeek": "63.60%",
     "uptimeMonth": "86.80%",
     "uptimeYear": "92.67%",
     "time": 1076,
     "timeDay": 689,
     "timeWeek": 729,
-    "timeMonth": 801,
+    "timeMonth": 800,
     "timeYear": 1111,
     "dailyMinutesDown": {
       "2026-03-29": 297,
@@ -311,8 +311,8 @@
     "time": 1215,
     "timeDay": 1007,
     "timeWeek": 900,
-    "timeMonth": 906,
-    "timeYear": 1213,
+    "timeMonth": 905,
+    "timeYear": 1212,
     "dailyMinutesDown": {
       "2026-03-29": 147,
       "2026-03-27": 730,
@@ -482,7 +482,7 @@
     "time": 118,
     "timeDay": 95,
     "timeWeek": 112,
-    "timeMonth": 117,
+    "timeMonth": 116,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-07-07": 20,
@@ -495,10 +495,10 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "90.95%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "90.94%",
     "uptimeMonth": "96.69%",
     "uptimeYear": "98.34%",
     "time": 115,
@@ -507,7 +507,7 @@
     "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-03-29": 16,
+      "2026-03-29": 17,
       "2026-03-28": 27,
       "2026-03-27": 629,
       "2026-03-25": 240,
@@ -592,7 +592,7 @@
       "2025-09-06": 17,
       "2025-09-04": 238,
       "2025-09-01": 37,
-      "2025-08-27": 25
+      "2025-08-27": 7
     }
   },
   {
@@ -609,7 +609,7 @@
     "time": 128,
     "timeDay": 109,
     "timeWeek": 126,
-    "timeMonth": 130,
+    "timeMonth": 128,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -620,9 +620,9 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "95.46%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "95.48%",
     "uptimeYear": "99.38%",
     "time": 117,
     "timeDay": 110,
@@ -630,7 +630,7 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-03-29": 44,
+      "2026-03-29": 35,
       "2026-03-28": 133,
       "2026-03-27": 125,
       "2026-03-25": 19,
@@ -673,7 +673,7 @@
       "2026-01-31": 38,
       "2026-01-30": 19,
       "2026-01-29": 23,
-      "2026-01-28": 137
+      "2026-01-28": 156
     }
   },
   {
@@ -690,7 +690,7 @@
     "time": 142,
     "timeDay": 113,
     "timeWeek": 133,
-    "timeMonth": 142,
+    "timeMonth": 140,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-03-01": 19,
