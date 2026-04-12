@@ -13,7 +13,7 @@
     "time": 1224,
     "timeDay": 725,
     "timeWeek": 761,
-    "timeMonth": 750,
+    "timeMonth": 752,
     "timeYear": 1271,
     "dailyMinutesDown": {
       "2026-03-29": 147,
@@ -495,11 +495,11 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "88.86%",
-    "uptimeMonth": "94.15%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "88.84%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "98.18%",
     "time": 115,
     "timeDay": 105,
@@ -507,7 +507,7 @@
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-04-12": 99,
+      "2026-04-12": 101,
       "2026-04-11": 790,
       "2026-04-10": 47,
       "2026-04-05": 187,
@@ -592,8 +592,7 @@
       "2025-09-22": 97,
       "2025-09-16": 7,
       "2025-09-13": 19,
-      "2025-09-12": 17,
-      "2025-09-10": 9
+      "2025-09-12": 17
     }
   },
   {
@@ -621,9 +620,9 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "97.09%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "97.11%",
     "uptimeYear": "99.40%",
     "time": 117,
     "timeDay": 115,
@@ -631,7 +630,7 @@
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-04-12": 45,
+      "2026-04-12": 36,
       "2026-04-11": 45,
       "2026-04-10": 112,
       "2026-04-09": 35,
@@ -676,7 +675,7 @@
       "2026-02-13": 19,
       "2026-02-12": 19,
       "2026-02-11": 126,
-      "2026-02-10": 16
+      "2026-02-10": 35
     }
   },
   {
@@ -688,7 +687,7 @@
     "uptime": "97.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.07%",
+    "uptimeMonth": "61.03%",
     "uptimeYear": "96.75%",
     "time": 142,
     "timeDay": 0,
@@ -696,7 +695,7 @@
     "timeMonth": 140,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-04-12": 943,
+      "2026-04-12": 960,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
