@@ -497,9 +497,9 @@
     "slug": "imap-server",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "95.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.71%",
+    "uptimeMonth": "95.24%",
     "uptimeYear": "98.18%",
     "time": 115,
     "timeDay": 104,
@@ -507,7 +507,6 @@
     "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-04-16": 9,
       "2026-04-12": 99,
       "2026-04-11": 790,
       "2026-04-10": 47,
@@ -593,7 +592,8 @@
       "2025-09-22": 97,
       "2025-09-16": 7,
       "2025-09-13": 19,
-      "2025-09-12": 17
+      "2025-09-12": 17,
+      "2025-09-10": 9
     }
   },
   {
@@ -619,11 +619,11 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "96.95%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "99.41%",
     "time": 117,
     "timeDay": 113,
@@ -631,7 +631,7 @@
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-04-16": 12,
+      "2026-04-16": 9,
       "2026-04-14": 19,
       "2026-04-13": 48,
       "2026-04-12": 74,
@@ -676,7 +676,8 @@
       "2026-02-21": 57,
       "2026-02-19": 19,
       "2026-02-15": 19,
-      "2026-02-13": 19
+      "2026-02-13": 19,
+      "2026-02-12": 19
     }
   },
   {
@@ -685,10 +686,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail3-theyosh-nl",
     "status": "down",
-    "uptime": "96.47%",
+    "uptime": "96.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.17%",
+    "uptimeMonth": "48.15%",
     "uptimeYear": "95.68%",
     "time": 142,
     "timeDay": 0,
@@ -696,7 +697,7 @@
     "timeMonth": 141,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-04-16": 835,
+      "2026-04-16": 843,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
