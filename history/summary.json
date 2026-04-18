@@ -498,7 +498,7 @@
     "status": "up",
     "uptime": "98.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.12%",
+    "uptimeWeek": "90.30%",
     "uptimeMonth": "94.77%",
     "uptimeYear": "98.14%",
     "time": 115,
@@ -621,9 +621,9 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.39%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "99.41%",
     "time": 117,
     "timeDay": 114,
@@ -631,7 +631,6 @@
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-04-18": 9,
       "2026-04-17": 19,
       "2026-04-14": 19,
       "2026-04-13": 48,
@@ -677,7 +676,8 @@
       "2026-02-21": 57,
       "2026-02-19": 19,
       "2026-02-15": 19,
-      "2026-02-13": 19
+      "2026-02-13": 19,
+      "2026-02-12": 19
     }
   },
   {
@@ -689,15 +689,15 @@
     "uptime": "96.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.27%",
-    "uptimeYear": "95.27%",
+    "uptimeMonth": "43.23%",
+    "uptimeYear": "95.26%",
     "time": 142,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 144,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-04-18": 103,
+      "2026-04-18": 120,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
