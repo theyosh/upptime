@@ -495,11 +495,11 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.30%",
-    "uptimeMonth": "94.77%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "90.41%",
+    "uptimeMonth": "94.76%",
     "uptimeYear": "98.14%",
     "time": 115,
     "timeDay": 121,
@@ -507,6 +507,7 @@
     "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2026-04-18": 3,
       "2026-04-16": 209,
       "2026-04-12": 99,
       "2026-04-11": 790,
@@ -592,8 +593,7 @@
       "2025-09-25": 15,
       "2025-09-22": 97,
       "2025-09-16": 7,
-      "2025-09-13": 19,
-      "2025-09-12": 17
+      "2025-09-13": 19
     }
   },
   {
@@ -619,10 +619,10 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "98.03%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "98.01%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "99.41%",
     "time": 117,
@@ -631,6 +631,7 @@
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2026-04-18": 2,
       "2026-04-17": 19,
       "2026-04-14": 19,
       "2026-04-13": 48,
@@ -676,8 +677,7 @@
       "2026-02-21": 57,
       "2026-02-19": 19,
       "2026-02-15": 19,
-      "2026-02-13": 19,
-      "2026-02-12": 19
+      "2026-02-13": 19
     }
   },
   {
@@ -689,7 +689,7 @@
     "uptime": "96.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.23%",
+    "uptimeMonth": "43.19%",
     "uptimeYear": "95.26%",
     "time": 142,
     "timeDay": 0,
@@ -697,7 +697,7 @@
     "timeMonth": 144,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-04-18": 120,
+      "2026-04-18": 135,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
