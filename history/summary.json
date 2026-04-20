@@ -495,10 +495,10 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.93%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "97.91%",
     "uptimeMonth": "94.81%",
     "uptimeYear": "98.14%",
     "time": 115,
@@ -507,6 +507,7 @@
     "timeMonth": 118,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2026-04-20": 2,
       "2026-04-16": 209,
       "2026-04-12": 99,
       "2026-04-11": 790,
@@ -592,8 +593,7 @@
       "2025-09-25": 15,
       "2025-09-22": 97,
       "2025-09-16": 7,
-      "2025-09-13": 19,
-      "2025-09-12": 17
+      "2025-09-13": 19
     }
   },
   {
@@ -621,17 +621,17 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "99.41%",
     "time": 117,
-    "timeDay": 112,
-    "timeWeek": 114,
+    "timeDay": 109,
+    "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-04-20": 30,
+      "2026-04-20": 21,
       "2026-04-19": 1,
       "2026-04-17": 19,
       "2026-04-14": 19,
@@ -677,7 +677,8 @@
       "2026-02-22": 269,
       "2026-02-21": 57,
       "2026-02-19": 19,
-      "2026-02-15": 19
+      "2026-02-15": 19,
+      "2026-02-13": 19
     }
   },
   {
@@ -689,15 +690,15 @@
     "uptime": "95.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.01%",
-    "uptimeYear": "94.66%",
+    "uptimeMonth": "35.89%",
+    "uptimeYear": "94.65%",
     "time": 142,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 147,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-04-20": 403,
+      "2026-04-20": 454,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
