@@ -499,17 +499,16 @@
     "slug": "imap-server",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "95.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "98.14%",
     "time": 115,
-    "timeDay": 143,
+    "timeDay": 0,
     "timeWeek": 117,
     "timeMonth": 118,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-04-25": 4,
       "2026-04-16": 209,
       "2026-04-12": 99,
       "2026-04-11": 790,
@@ -595,7 +594,8 @@
       "2025-09-25": 15,
       "2025-09-22": 97,
       "2025-09-16": 7,
-      "2025-09-13": 19
+      "2025-09-13": 19,
+      "2025-09-12": 17
     }
   },
   {
@@ -621,11 +621,11 @@
     "url": "mail2.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail2-theyosh-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "86.37%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "94.43%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "99.35%",
     "time": 117,
     "timeDay": 124,
@@ -633,7 +633,7 @@
     "timeMonth": 115,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-04-25": 19,
+      "2026-04-25": 21,
       "2026-04-24": 319,
       "2026-04-23": 19,
       "2026-04-20": 40,
@@ -680,7 +680,7 @@
       "2026-02-24": 19,
       "2026-02-23": 38,
       "2026-02-22": 269,
-      "2026-02-21": 37
+      "2026-02-21": 18
     }
   },
   {
@@ -689,18 +689,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail3-theyosh-nl",
     "status": "down",
-    "uptime": "94.56%",
+    "uptime": "94.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.50%",
-    "uptimeYear": "93.20%",
+    "uptimeMonth": "18.23%",
+    "uptimeYear": "93.18%",
     "time": 142,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-04-25": 873,
+      "2026-04-25": 991,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
