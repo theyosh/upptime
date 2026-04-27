@@ -1,7 +1,7 @@
 url: https://terrarium.theyosh.nl
-status: up
-code: 200
-responseTime: 632
-lastUpdated: 2026-04-26T23:36:27.095Z
+status: down
+code: 502
+responseTime: 781
+lastUpdated: 2026-04-27T04:30:13.836Z
 startTime: 2025-01-24T11:19:30.921Z
 generator: Upptime <https://github.com/upptime/upptime>
