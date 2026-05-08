@@ -74,7 +74,7 @@
     "status": "up",
     "uptime": "94.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.82%",
+    "uptimeWeek": "90.07%",
     "uptimeMonth": "85.16%",
     "uptimeYear": "93.33%",
     "time": 1904,
@@ -504,18 +504,19 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "95.85%",
-    "uptimeYear": "98.02%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "93.45%",
+    "uptimeMonth": "95.84%",
+    "uptimeYear": "98.03%",
     "time": 115,
     "timeDay": 105,
     "timeWeek": 104,
     "timeMonth": 114,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2026-05-08": 5,
       "2026-05-07": 636,
       "2026-05-03": 19,
       "2026-04-27": 19,
@@ -602,7 +603,7 @@
       "2025-09-30": 10,
       "2025-09-29": 9,
       "2025-09-25": 15,
-      "2025-09-22": 97
+      "2025-09-22": 68
     }
   },
   {
@@ -630,9 +631,9 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "95.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "95.42%",
     "uptimeYear": "99.22%",
     "time": 118,
     "timeDay": 120,
@@ -640,7 +641,6 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-05-08": 6,
       "2026-05-05": 29,
       "2026-05-03": 188,
       "2026-05-02": 19,
@@ -691,7 +691,7 @@
       "2026-03-07": 28,
       "2026-03-03": 19,
       "2026-03-02": 167,
-      "2026-03-01": 56
+      "2026-03-01": 75
     }
   },
   {
@@ -704,14 +704,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.64%",
+    "uptimeYear": "89.63%",
     "time": 142,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-05-08": 906,
+      "2026-05-08": 930,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
