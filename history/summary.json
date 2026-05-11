@@ -499,18 +499,19 @@
     "url": "mail.theyosh.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-server",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "81.53%",
-    "uptimeWeek": "91.05%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.98%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "81.21%",
+    "uptimeWeek": "91.00%",
+    "uptimeMonth": "97.12%",
+    "uptimeYear": "97.99%",
     "time": 115,
     "timeDay": 99,
     "timeWeek": 101,
     "timeMonth": 113,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2026-05-11": 5,
       "2026-05-10": 266,
       "2026-05-07": 636,
       "2026-05-03": 19,
@@ -597,8 +598,7 @@
       "2025-10-04": 17,
       "2025-09-30": 10,
       "2025-09-29": 9,
-      "2025-09-25": 15,
-      "2025-09-22": 68
+      "2025-09-25": 15
     }
   },
   {
@@ -626,9 +626,9 @@
     "slug": "mail2-theyosh-nl",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "95.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "95.68%",
     "uptimeYear": "99.22%",
     "time": 118,
     "timeDay": 113,
@@ -636,7 +636,6 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-05-11": 6,
       "2026-05-09": 16,
       "2026-05-08": 23,
       "2026-05-05": 29,
@@ -688,7 +687,8 @@
       "2026-03-08": 248,
       "2026-03-07": 28,
       "2026-03-03": 19,
-      "2026-03-02": 167
+      "2026-03-02": 167,
+      "2026-03-01": 19
     }
   },
   {
@@ -697,18 +697,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail3-theyosh-nl",
     "status": "down",
-    "uptime": "91.37%",
+    "uptime": "91.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.85%",
+    "uptimeYear": "88.84%",
     "time": 142,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-05-11": 736,
+      "2026-05-11": 780,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
